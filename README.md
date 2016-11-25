@@ -36,10 +36,6 @@ Instructions
 To install this example on your computer, clone the repository and install dependencies.
 
 
-1.
-$ git clone https://github.com/sabideka01/ForumRepo.git
-$ cd ForumRepo
-$ npm install
 
 2.Start mongodb server.
 
